@@ -1,0 +1,24 @@
+{
+  "name": "poly",
+  "version": "1.0.0",
+  "description": "polynomial",
+  "main": "polynomial.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/annagotsis/poly.git"
+  },
+  "keywords": [
+    "math",
+    "polynomials",
+    "ohm"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/annagotsis/poly/issues"
+  },
+  "homepage": "https://github.com/annagotsis/poly#readme"
+}
